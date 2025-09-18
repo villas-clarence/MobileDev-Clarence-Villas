@@ -9,4 +9,8 @@ My goal is to apply what I learn in class to real-world scenarios, while continu
 ✨ Feel free to explore my work and connect with me! ✨ 
 
 
+
+
+
+
 Exploring tech, one line of code at a time.
